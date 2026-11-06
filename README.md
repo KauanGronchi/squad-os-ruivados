@@ -1,0 +1,1 @@
+O Sistema de Rastreamento de Amostras Laboratoriais tem como objetivo garantir a rastreabilidade das amostras em todas as etapas do processo laboratorial. A solução permite o cadastro de pacientes, registro de coletas, acompanhamento do status das amostras, registro de resultados, controle de permissões, auditoria e visualização de indicadores operacionais por meio de dashboards.
